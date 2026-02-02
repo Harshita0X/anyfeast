@@ -14,13 +14,13 @@ AI-powered personalized meal planning and nutrition tracking for your health goa
 ### Prerequisites
 
 - Node.js 18+ 
-- npm or yarn
+- npm
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/anyfeast.git
+git clone https://github.com/Harshita0X/anyfeast.git
 
 # Navigate to project directory
 cd anyfeast
